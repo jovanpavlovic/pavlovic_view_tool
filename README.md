@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PavlovicViewTool::Renderer.copyright 'Jovan Pavlovic', 'All rights reserved'
+```
 
 ## Development
 
